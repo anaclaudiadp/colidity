@@ -1,5 +1,5 @@
-# Colidity Answers
+# Colidity Solutions
 
-Answers to the exercises and tests at http://codility.com/
+Solutions for the exercises and tests at http://codility.com/
 
 https://codility.com/programmers/lessons/
